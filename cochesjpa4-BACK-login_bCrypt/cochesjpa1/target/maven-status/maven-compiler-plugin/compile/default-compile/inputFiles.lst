@@ -1,0 +1,16 @@
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Cochesjpa1Application.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Config\SecurityConfig.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Controller\CocheControlador.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Controller\MarcaControlador.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Controller\UsuarioControlador.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\DTO\MarcaModeloDTO.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Entity\Coche.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Entity\Marca.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Entity\Usuario.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Repository\CocheRepositorio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Repository\MarcaRepositorio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Repository\UsuarioRepositorio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Services\CocheServicio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Services\MarcaServicio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\Services\UsuarioServicio.java
+C:\Users\albert\Desktop\fetch_coches\con login bCrypt\cochesjpa4-BACK-login_bCrypt\cochesjpa1\src\main\java\com\ironhack\cochesjpa1\WebConfig.java

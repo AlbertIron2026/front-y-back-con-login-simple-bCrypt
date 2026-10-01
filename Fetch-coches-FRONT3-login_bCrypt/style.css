@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(58, 46, 46);
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    padding: 35px;
+    display: flex;
+    gap: 20px;
+}
+
+p{
+    color:red;
+    padding: 50px;
+    background-color: beige;
+    border-radius: 8px;
+}
+
+hr{
+    color: red;
+    margin-top: -20px;
+}
+
+button, input{
+    margin-bottom: 20px;
+}
+
+fieldset{
+    padding: 10px;
+}

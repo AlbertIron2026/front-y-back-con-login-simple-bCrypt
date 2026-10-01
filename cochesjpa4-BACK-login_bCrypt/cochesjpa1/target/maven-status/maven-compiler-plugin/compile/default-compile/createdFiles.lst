@@ -1,0 +1,14 @@
+com\ironhack\cochesjpa1\Repository\MarcaRepositorio.class
+com\ironhack\cochesjpa1\Entity\Marca.class
+com\ironhack\cochesjpa1\Repository\CocheRepositorio.class
+com\ironhack\cochesjpa1\Controller\CocheControlador.class
+com\ironhack\cochesjpa1\DTO\MarcaModeloDTO.class
+com\ironhack\cochesjpa1\Cochesjpa1Application.class
+com\ironhack\cochesjpa1\Config\SecurityConfig.class
+com\ironhack\cochesjpa1\Controller\MarcaControlador.class
+com\ironhack\cochesjpa1\Repository\UsuarioRepositorio.class
+com\ironhack\cochesjpa1\Entity\Usuario.class
+com\ironhack\cochesjpa1\WebConfig.class
+com\ironhack\cochesjpa1\Services\MarcaServicio.class
+com\ironhack\cochesjpa1\Entity\Coche.class
+com\ironhack\cochesjpa1\Services\CocheServicio.class
